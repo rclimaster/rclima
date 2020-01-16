@@ -1,3 +1,3 @@
 <? php
-echo "Hello Word";
+echo "Alteracao feita pelo site do Git";
 >
